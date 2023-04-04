@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 # Farnoosh Azour
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffarnoosh27%2Ffarnoosh27&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/farnooshazour/](https://www.linkedin.com/in/farnoosh-azour-72078a125/))
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:farnoushazour95@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]([[https://www.linkedin.com/in/farnooshazour/](https://www.linkedin.com/in/farnoosh-azour-72078a125/)](https://www.linkedin.com/in/farnoosh-azour-72078a125/))
 [![Github](https://img.shields.io/github/followers/farnoosh27?label=Follow&style=social)](https://github.com/farnoosh27)
 
 - interested in the application of AI in healthcare!
