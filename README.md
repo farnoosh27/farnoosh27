@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - Machine Learning
 - Deep Learning
-- Biostatistics
+- Biostatistics/Epidemiology
 - Computer Vision
 ### ⚙️ Tech Stack
 
