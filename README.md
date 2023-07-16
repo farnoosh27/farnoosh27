@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]([[https://www.linkedin.com/in/farnooshazour/](https://www.linkedin.com/in/farnoosh-azour-72078a125/)](https://www.linkedin.com/in/farnoosh-azour-72078a125/))
 [![Github](https://img.shields.io/github/followers/farnoosh27?label=Follow&style=social)](https://github.com/farnoosh27)
 
-- interested in the application of AI in healthcare!
-
+- I'm passionate about the diverse applications of AI in various domains. AI's potential and versatility captivate me as it continues to advance and impact different fields.
+  
 ### 🖥 Skills
 
 - Machine Learning
