@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 </div>
 
 
-<div> <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hejazizo&show_icons=true&locale=en&layout=compact" alt="hejazizo" /> <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=hejazizo&" alt="hejazizo" /> </div>
+<div> <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hejazizo&show_icons=true&locale=en&layout=compact" alt="farnoosh27" /> <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=farnoosh27&" alt="farnoosh27" /> </div>
 
 ---
 :zap: To generate a `README.md` file like this for your profile, checkout [Github Readme Generator](https://hejazizo-github-profile-readme-srcstreamlit-app-i6skm7.streamlit.app/).
