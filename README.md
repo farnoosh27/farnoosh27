@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - I'm passionate about the diverse applications of AI in various domains. AI's potential and versatility captivate me as it continues to advance and impact different fields.
   
 
-- I am currently a data science intern, in Montreal at Audela company!
+- I am currently a data science intern in Montreal at Audela company!
   
 <div> <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farnoosh27&show_icons=true&locale=en&layout=compact" alt="farnoosh27" /> <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=farnoosh27&" alt="farnoosh27" /> </div>
 
