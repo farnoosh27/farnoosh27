@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - I'm passionate about the diverse applications of AI in various domains. AI's potential and versatility captivate me as it continues to advance and impact different fields.
   
 
-- I am currently a data science intern in Montreal at Audela company!
+- I am currently a data science intern in Montreal at Audela Company!
  
 ### Stats
 <div>
