@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 
 
-- I am currently a data science intern in Montreal at Audela Company, specializing in NLP!
+- I am currently a data science intern in Montreal at Audela/B-yond Company, specializing in LLMs and NLP!
  
 ### Stats
 <div>
