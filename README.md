@@ -25,8 +25,6 @@ Here are some ideas to get you started:
   <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=farnoosh27&" alt="farnoosh27" />
 </div>
 
-
-
 ### 🖥 Skills
 
 - Machine Learning
