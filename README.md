@@ -29,8 +29,8 @@ Here are some ideas to get you started:
 
 - Machine Learning
 - Deep Learning
+- Data Analysis
 - Natural Language Processing
-- MLOps
 - Computer Vision
 ### ⚙️ Tech Stack
 
